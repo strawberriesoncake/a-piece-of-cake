@@ -11,11 +11,40 @@
             "id": "e3e2b97541db5a90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQLD/1과목 - 1장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeacfdba22f8216b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/조건문.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3572de762aad9bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Pandas 기본 문법.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/조건문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/조건문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/조건문.md"
+              }
             }
           },
           {
@@ -148,13 +181,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e3e2b97541db5a90",
+  "active": "eeacfdba22f8216b",
   "lastOpenFiles": [
+    "데이터 분석/데이터와 데이터 분석.md",
+    "Python/함수와 메소드.md",
     "Python/Pandas 기본 문법.md",
-    "SQLD/1과목 - 1장.md",
+    "Python/튜플(Tuple).md",
+    "Python/집합(Set).md",
+    "Python/조건문.md",
+    "Python/자료형.md",
+    "Python/제어문.md",
+    "Python/인덱싱과 슬라이싱.md",
+    "Python/사전(Dictionary).md",
+    "Python/반복문.md",
+    "Python/모듈.md",
+    "Python/리스트(List).md",
     "SQLD/1과목 - 2장.md",
-    "SQLD/SQLD 1과목.md",
-    "SQLD/1과목.md",
+    "SQLD/1과목 - 1장.md",
+    "무제 파일 1.md",
+    "img src/Pasted image 20240803182702.png",
+    "img src/Pasted image 20240803182406.png",
     "img src/Pasted image 20240803192444.png",
     "img src/Pasted image 20240803184056.png",
     "img src/Pasted image 20240803184047.png",
@@ -163,28 +209,13 @@
     "img src/Pasted image 20240803183105.png",
     "img src/Pasted image 20240803183103.png",
     "img src/Pasted image 20240803182936.png",
-    "img src/Pasted image 20240803182705.png",
-    "img src/Pasted image 20240803182702.png",
-    "Python/조건문.md",
     "파이써닉하게 책 읽기 챌린지.md",
     "클래스와 인스턴스.md",
     "무제 폴더",
     "위클리페이퍼 2.md",
-    "무제 파일.md",
     "SQLD",
-    "Python/반복문.md",
-    "Python/인덱싱과 슬라이싱.md",
-    "Python/사전(Dictionary).md",
     "축약어.md",
-    "Python/모듈.md",
-    "Python/제어문.md",
-    "Python/자료형.md",
-    "Python/튜플(Tuple).md",
-    "Python/집합(Set).md",
     "튜플.md",
-    "데이터 분석/데이터와 데이터 분석.md",
-    "Python/리스트(List).md",
-    "Python/함수와 메소드.md",
     "Google Colab.md",
     "0715.md",
     "무제 폴더 1",
