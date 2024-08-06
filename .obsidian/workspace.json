@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "9ddf213f4952bc0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda70cc77dfaf377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3e2b97541db5a90",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41ded1ba2d96842b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4b10012d90a6119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39522aabf02cf310",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f206e6b7b182e24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85ba1b6d5a5d0bac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "216bf5355bc68f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "225b103b859be525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c79bbce71971f09d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0240b9a70078a3c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a4b5ca82320d20e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b6f79afa555ccc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bfdc6891023291c",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "e3e2b97541db5a90",
+  "lastOpenFiles": [
+    "Python/Pandas 기본 문법.md",
+    "SQLD/1과목 - 1장.md",
+    "SQLD/1과목 - 2장.md",
+    "SQLD/SQLD 1과목.md",
+    "SQLD/1과목.md",
+    "img src/Pasted image 20240803192444.png",
+    "img src/Pasted image 20240803184056.png",
+    "img src/Pasted image 20240803184047.png",
+    "img src/Pasted image 20240803183824.png",
+    "img src/Pasted image 20240803183820.png",
+    "img src/Pasted image 20240803183105.png",
+    "img src/Pasted image 20240803183103.png",
+    "img src/Pasted image 20240803182936.png",
+    "img src/Pasted image 20240803182705.png",
+    "img src/Pasted image 20240803182702.png",
+    "Python/조건문.md",
+    "파이써닉하게 책 읽기 챌린지.md",
+    "클래스와 인스턴스.md",
+    "무제 폴더",
+    "위클리페이퍼 2.md",
+    "무제 파일.md",
+    "SQLD",
+    "Python/반복문.md",
+    "Python/인덱싱과 슬라이싱.md",
+    "Python/사전(Dictionary).md",
+    "축약어.md",
+    "Python/모듈.md",
+    "Python/제어문.md",
+    "Python/자료형.md",
+    "Python/튜플(Tuple).md",
+    "Python/집합(Set).md",
+    "튜플.md",
+    "데이터 분석/데이터와 데이터 분석.md",
+    "Python/리스트(List).md",
+    "Python/함수와 메소드.md",
+    "Google Colab.md",
+    "0715.md",
+    "무제 폴더 1",
+    "데이터 분석",
+    "Python",
+    "img src"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "img src",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  }
+}
