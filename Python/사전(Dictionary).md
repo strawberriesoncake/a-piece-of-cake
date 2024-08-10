@@ -11,3 +11,8 @@ numbers = {
 }
 ```
 ➡️ numbers[3] 은 9 이다.
+
+사전의 키 목록을 얻고 싶을 때, 사전을 [[리스트]]로 변환할 수 있다.
+```python
+syms = list(prices)   # syms = ["AAPL", "MSFT", "IBM", "GOOG"]
+```
